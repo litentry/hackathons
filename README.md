@@ -65,7 +65,7 @@ Participants can select from the following themes for their hacking projects:
 * Third Prize: **1688 USDT**
 * Special Prize: **988 USDT**
 
-Prized are in LIT tokens equal to the above-mentioned USDT amount. Teams can choose any of the above project themes, as prizes are not theme-specific.
+Prizes are in LIT tokens equal to the above-mentioned USDT amount. Teams can choose any of the above project themes, as prizes are not theme-specific.
 
 
 ## Timeline
@@ -93,7 +93,7 @@ Winners List Notification
 
 Participants must submit their projects by **Thursday, November 16, at 2 PM**. 
 
-Online participation is accepted, but we encourage the team to be available for on-site presentations. The event can accommodate a maximum of 6 teams, so make sure to register as soon as possible to secure your spot.
+Online participation is accepted, but we encourage the team to be available for on-site presentations.
 
 
 ## Location
@@ -133,7 +133,7 @@ After registration, you may get ready for hacking on your project. To get starte
 - **Impact**: The project can effectively address the problem it aims to solve, with the potential to bring positive change to the targeted groups.
 - **Innovation**: The solution showcases creativity and originality, introducing novel approaches or concepts.
 - **Usability/UX**: the project is user-friendly, intuitive and easy to navigate.
-- **Technical Complexity**: the team’s work addressed challenging problems, use advanced technologies, or demonstrate technical prowess.
+- **Technical Complexity**: the team’s work addressed challenging problems, used advanced technologies, or demonstrated technical prowess.
 - **Functionality**: the project demo works as intended. It is a functional prototype or a well-implemented solution.
 
 ## Links
