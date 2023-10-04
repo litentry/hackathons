@@ -10,48 +10,21 @@ Join the Litentry Team for the **TrustCraft: Identity Hackathon** events as part
 
 Participants can select from the following themes for their hacking projects:
 
-### 1. VC Use Cases
+### VC Use Cases (Tech Track)
   Create the most innovative and impactful use case of Verifiable Credentials (VCs)! Utilize VCs from IdentityHub in a dApp, in a community, or bring it across ecosystems and blockchains. 
-  When crafting new VCs, ensure that the assertions within them are technically on-chain retrievable for your build. While VCs are issued in JSON format, you can integrate it with NFTs or  SBTs to bridge to a wider world.
+  When crafting new VCs, ensure that the assertions within them are technically on-chain retrievable for your build. While VCs are issued in JSON format, you can integrate it with NFTs or  SBTs to bridge to a broader world.
     
   Requirements: 
   * Utilize VCs created using IdentityHub in a dapp, community or ecosystem. Stay tuned for the upcoming VC SDK and documentation!
   * A prototype dApp would be great, but well-demonstrated ideas and concepts are welcome as well.
 
-### 2. DID Aggregation Use Cases
-  Linking different DIDs / accounts can form an [IDGraph](https://docs.litentry.com/parachain/pallets-and-modules/identity-management-pallet-imp/components-of-the-imp#id-graph) that represents users’ comprehensive profiles. It can also act as a gateway to their public on-chain attributes. What identities would you integrate, and how do you use DID aggregation to empower online and real-world applications?
-  
-  Stay tuned for the upcoming IDGraph documentation.
-    
-### 3. Identity Assertion Logic and Generation
-  The [assertion](https://docs.litentry.com/parachain/pallets-and-modules/verifiable-credential-management-pallet-vcmp/assertion-definitions-and-parameters) building of the current exemplary VCs is hard coded as part of enclave business logic. To ensure its flexibility and extensibility, we are in the transition to a fully programmable logic definition scheme. The basic requirement is to have some logic that the VC requester (normally dApps) can define and the TEE-worker can eventually execute inside the enclave.
-  
-  The logic should contain at least the following:
-  * HTTP get/post from/to the data providers
-  * control flow (like different logic based on the result of HTTP response and/or the actual content)
-  * post-processing of the data
-  * (optional) access to the sidechain/parachain storage
- 
-  Some options:
-  * smart contract language based (`solidity` / `ink!`)
-  * wasm
-  * external tools or any other suggestions
-    
-### 4. Parachain/Sidechain Infrastructure Enhancement
-  Would you like to go deeper into our architectural labyrinth and help us improve the backbone of our DID solution? You are more than welcome to challenge it, some directions:
-  * alternative block production mechanism for sidechain (currently we are using aura)
-  * transition to stateless computation (= dismiss the storage of IDGraph), or a hybrid of both (stateful and stateless)
-  * better communication between parachain and sidechain, e.g. more efficient syncing, state consistency management, faster message passing …
-  * sidechain integration with other parachains and/or EVM chains
-  * any critical performance improvement
-
-### 5. Scores & Profiles Design
+### Scores & Profiles Design (Non-tech Track)
   Scores are useful identity metrics that offer communities and groups a lens through which to assess, evolve, and thrive. These metrics highlight the aspects that captivate and resonate within a community, providing individuals with a path for personal growth and alignment.
   
   Requirements: 
   * Design Scores or build profiles comprising multiple score elements that showcase the credibility, contributions, and diverse merits of members from a specific community or group.
   * Clearly outline the methodology for calculating each score, describe the meaning and impact of the scores or profiles, and their relevance to the specific community or groups they target.
-  * Specify the data prerequisites for each score or profile. You have the flexibility to either provide the required data yourself or collaborate with the Litentry team to access the necessary data sources.
+  * Specify the data prerequisites for each score or profile. You can either provide the required data yourself or collaborate with the Litentry team to access the necessary data sources.
 
 ## Registration
 
