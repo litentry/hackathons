@@ -11,11 +11,11 @@ Join the Litentry Team for the **TrustCraft: Identity Hackathon** events as part
 Participants can select from the following themes for their hacking projects:
 
 ### VC Use Cases (Tech Track)
-  Create the most innovative and impactful use case of Verifiable Credentials (VCs)! Utilize VCs from IdentityHub in a dApp, in a community, or bring it across ecosystems and blockchains. 
-  When crafting new VCs, ensure that the assertions within them are technically on-chain retrievable for your build. While VCs are issued in JSON format, you can integrate it with NFTs or  SBTs to bridge to a broader world.
+  Develop products that leverage decentralized identity and deliver value to users by harnessing Litentry's verifiable credentials across multiple blockchain networks. 
     
   Requirements: 
-  * Utilize VCs created using IdentityHub in a dapp, community or ecosystem. Stay tuned for the upcoming VC SDK and documentation!
+  * Product must be developed upon the blockchain of the selected ecosystem(s). 
+  * You can use existing VCs from IdentityHub or create new ones. When generating new VCs, ensure that the assertions contained within them can be retrieved directly from the blockchain. Documenting the VC construction process is not necessary. While VCs are issued in JSON format, you can integrate it with NFTs or  SBTs to bridge to a broader world. Stay tuned for the upcoming VC SDK and documentation!
   * A prototype dApp would be great, but well-demonstrated ideas and concepts are welcome as well.
 
 ### Scores & Profiles Design (Non-tech Track)
